@@ -17,6 +17,6 @@ I’m immersed in building modern, responsive websites and web apps. My current 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammedkedir)
 
 
-**Do it for yourself. Do it 100%.**
+"**Do it for yourself. Do it 100%.**"
 ---
                                                             
