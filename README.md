@@ -18,5 +18,5 @@ I’m immersed in building modern, responsive websites and web apps. My current 
 
 
 "**Do it for yourself. Do it 100%.**"
----
+--- 
                                                             
