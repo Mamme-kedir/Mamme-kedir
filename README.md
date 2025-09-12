@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 # 💫 About Me:
 I'm currently working on my personal portfolio project<br>I'm am looking to collaborate on my learning journey<br>I'm am looking for help in mentorship<br>I'm currently learning Computer Science and front-end development<br>Ask me about computers and tech<br><br>Fun fact : Am still learning 
 
