@@ -108,17 +108,11 @@ At the crossroads of code and creativity, I craft digital experiences that are a
   </a>
 
   <!-- Replace placeholders below with your real links -->
-  <a href="https://www.linkedin.com/in/YOUR-HANDLE" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/mohammedkedir" title="LinkedIn">
     <img alt="LinkedIn" loading="lazy" decoding="async" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR@EMAIL.COM" title="Email">
+  <a href="mailto:mohammed.kedir@kibur.edu.et" title="Email">
     <img alt="Email" loading="lazy" decoding="async" src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://YOUR-DOMAIN.com" title="Portfolio Website">
-    <img alt="Website" loading="lazy" decoding="async" src="https://img.shields.io/badge/Website-0ea5e9?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-  </a>
-  <a href="https://drive.google.com/YOUR-RESUME-LINK" title="Resume / CV">
-    <img alt="Resume" loading="lazy" decoding="async" src="https://img.shields.io/badge/Resume%20%2F%20CV-374151?style=for-the-badge&logo=readme&logoColor=white" />
   </a>
 </div>
 
@@ -129,9 +123,6 @@ At the crossroads of code and creativity, I craft digital experiences that are a
   </a>
   <a href="https://t.me/Mame_kd" title="Telegram">
     <img alt="Telegram" loading="lazy" decoding="async" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mohammedkedir" title="LinkedIn">
-    <img alt="linkedin" loading="lazy" decoding="async" src="https://img.shields.io/badge/LinkedIn-5865F2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://wa.me/+261968787650" title="WhatsApp">
     <img alt="WhatsApp" loading="lazy" decoding="async" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
