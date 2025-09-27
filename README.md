@@ -4,7 +4,7 @@ This README uses lightweight, popular visual widgets that look good in both ligh
 -->
 
 <!-- Header wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:7C3AED,50:2563EB,100:06B6D4&text=Mohammed%20Kedir&fontColor=ffffff&fontAlign=50&fontAlignY=25&fontSize=42&desc=Graphic-Designer%20%E2%80%A2%20Front-End%20Developer%20%E2%80%A2%20Clean%20%E2%80%A2%20Responsive%20%E2%80%A2%20Accessible&descAlign=50&descAlignY=44&section=header" width="100%" alt="Header wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:7C3AED,50:2563EB,100:06B6D4&text=Mohammed%20Kedir&fontColor=ffffff&fontAlign=50&fontAlignY=25&fontSize=42&desc=Front-End%20Developer%20And%20Designer%20%E2%80%A2%20Clean%20%E2%80%A2%20Responsive%20%E2%80%A2%20Accessible&descAlign=50&descAlignY=44&section=header" width="100%" alt="Header wave" />
 <div align="center">
 
 <!-- Typing intro -->
@@ -16,15 +16,12 @@ This README uses lightweight, popular visual widgets that look good in both ligh
 <p>
   <a href="https://github.com/Mamme-kedir"><img alt="GitHub followers" src="https://img.shields.io/github/followers/Mamme-kedir?logo=github&style=for-the-badge"></a>
   <a href="https://komarev.com/ghpvc/?username=Mamme-kedir"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=Mamme-kedir&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS"></a>
-  <!-- Add your LinkedIn or Email if available
-  <a href="🔧 https://www.linkedin.com/in/your-handle/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:🔧 you@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  -->
+ 
 </p>
 
 <!-- Compact nav -->
 <p>
-  <a href="https://github.com/Mamme-kedir/Portfolio-web">Portfolio (repo)</a> ·
+  <!-- <a href="https://github.com/Mamme-kedir/Portfolio-web">Portfolio (repo)</a> · -->
   <a href="https://github.com/Mamme-kedir/The-best-10-front-end-learning-projects">Learning Projects</a> ·
   <a href="https://github.com/Mamme-kedir">All repositories</a>
 </p>
@@ -34,24 +31,16 @@ This README uses lightweight, popular visual widgets that look good in both ligh
 <!-- Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00000000,100:00000000&height=1&section=footer" width="100%" alt="" />
 
-## About me
-- I turn ideas into elegant, user-friendly interfaces with semantic HTML, modern CSS, and clean JavaScript.
-- I care about visual harmony, motion that serves meaning, and accessibility that invites everyone in.
-- Currently exploring: design tokens, component libraries, CSS architecture, and performance-first front-end.
-- Open to collaborating on front-end projects, UI refactors, and beginner-friendly learning resources.
-
-## Design pillars I follow
-- Clarity over clutter
-- Consistency over cleverness
-- Accessibility as a default
-- Performance as a feature
+<div align="center">
+At the crossroads of code and creativity, I craft digital experiences that are as functional as they are beautiful. I’m Mohammed Kedir, a Computer Science student and self-taught frontend developer with a passion for transforming ideas into interactive, user-friendly solutions. My expertise spans modern web technologies such as HTML, CSS, JavaScript, React, and Next.js, while my background in graphics design with tools like Photoshop and Illustrator allows me to bring an extra layer of visual storytelling to every project. Guided by curiosity and a commitment to continuous learning, I strive to write clean, maintainable code and design interfaces that not only work seamlessly but also leave a lasting impression.
+</div>
 
 <!-- Divider -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00000000,100:00000000&height=1&section=footer" width="100%" alt="" />
 
 ## Tech stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,git,github,vscode,figma&perline=10" alt="Tech stack icons: HTML, CSS, JS, React, Tailwind, Sass, Git, GitHub, VS Code, Figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,sass,git,github,vscode,figma,photoshop,illustrator&perline=15" alt="Tech stack icons: HTML, CSS, JS, React, Tailwind, Sass, Git, GitHub, VS Code, Figma, Photoshop, Illustrator" />
 </div>
 
 <!-- Divider -->
@@ -62,7 +51,7 @@ This README uses lightweight, popular visual widgets that look good in both ligh
 - [The-best-10-front-end-learning-projects](https://github.com/Mamme-kedir/The-best-10-front-end-learning-projects) — A curated set of hands‑on projects to build and level up front‑end skills.
 - [front-end-list-check](https://github.com/Mamme-kedir/front-end-list-check) — Progress tracking and checklists for learning front‑end fundamentals and best practices.
 - [Project-1-Personal-Portfolio-Website-Static](https://github.com/Mamme-kedir/Project-1-Personal-Portfolio-Website-Static) — A static portfolio site showcasing personal work with clean layout and responsive design.
-- [Portfolio-web](https://github.com/Mamme-kedir/Portfolio-web) — Portfolio scaffolding and assets; a good starting point to present your projects professionally.
+<!--- [Portfolio-web](https://github.com/Mamme-kedir/Portfolio-web) — Portfolio scaffolding and assets; a good starting point to present your projects professionally.-->
 
 <details>
 <summary><strong>What I’m focusing on right now</strong></summary>
@@ -138,17 +127,14 @@ This README uses lightweight, popular visual widgets that look good in both ligh
   <a href="https://x.com/YOUR_HANDLE" title="X (Twitter)">
     <img alt="X (Twitter)" loading="lazy" decoding="async" src="https://img.shields.io/badge/X%20(Twitter)-111827?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://t.me/YOUR_HANDLE" title="Telegram">
+  <a href="https://t.me/Mame_kd" title="Telegram">
     <img alt="Telegram" loading="lazy" decoding="async" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://discord.gg/YOUR_INVITE" title="Discord">
-    <img alt="Discord" loading="lazy" decoding="async" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://linkedin.com/in/mohammedkedir" title="LinkedIn">
+    <img alt="linkedin" loading="lazy" decoding="async" src="https://img.shields.io/badge/LinkedIn-5865F2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/YOUR_NUMBER" title="WhatsApp">
+  <a href="https://wa.me/+261968787650" title="WhatsApp">
     <img alt="WhatsApp" loading="lazy" decoding="async" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://cal.com/YOUR_HANDLE" title="Schedule a Call">
-    <img alt="Schedule a Call" loading="lazy" decoding="async" src="https://img.shields.io/badge/Schedule%20a%20Call-0ea5e9?style=for-the-badge&logo=google-calendar&logoColor=white" />
   </a>
 </div>
 
