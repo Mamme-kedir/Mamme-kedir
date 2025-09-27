@@ -2,6 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
+
 # 💫 About Me:
 I'm currently working on my personal portfolio project<br>I'm am looking to collaborate on my learning journey<br>I'm am looking for help in mentorship<br>I'm currently learning Computer Science and front-end development<br>Ask me about computers and tech<br><br>Fun fact : Am still learning 
 
@@ -29,3 +30,7 @@ I'm currently working on my personal portfolio project<br>I'm am looking to coll
 [![](https://visitcount.itsvg.in/api?id=Mamme-kedir&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fafiyusuf&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
