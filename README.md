@@ -23,7 +23,7 @@ This README uses lightweight, popular visual widgets that look good in both ligh
 <p>
   <!-- <a href="https://github.com/Mamme-kedir/Portfolio-web">Portfolio (repo)</a> · -->
   <a href="https://github.com/Mamme-kedir/The-best-10-front-end-learning-projects">Learning Projects</a> ·
-  <a href="https://github.com/Mamme-kedir">All repositories</a>
+  <a href="https://github.com/Mamme-kedir?tab=repositories">All repositories</a>
 </p>
 
 </div>
