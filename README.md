@@ -40,7 +40,7 @@ At the crossroads of code and creativity, I craft digital experiences that are a
 
 ## Tech stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,sass,linux,git,github,vscode,figma,photoshop,illustrator&perline=15" alt="Tech stack icons: HTML, CSS, JS, React, Tailwind, Sass, Git, GitHub, VS Code, Figma, Photoshop, Illustrator, Linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,sass,php,linux,git,github,vscode,figma,photoshop,illustrator&perline=15" alt="Tech stack icons: HTML, CSS, JS, React, Tailwind, Sass, Git, GitHub, VS Code, Figma, Photoshop, Illustrator, Linux" />
 </div>
 
 <!-- Divider -->
